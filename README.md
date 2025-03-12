@@ -1,1 +1,2 @@
-# slider
+# npm i
+# npm start
